@@ -9,6 +9,7 @@
   "author": "Daniella Arias",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
   }
 }
